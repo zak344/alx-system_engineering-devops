@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod oug+X ./
+chmod -R oug+X ./
